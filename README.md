@@ -33,7 +33,7 @@ src/
 ## **Local configuration** 
 1. Clone the repo:  
 ```
-git clone https://github.com/arpy8/portfolio
+git clone https://github.com/Suraj1213-ux/portfolio
 ```
 2. Install dependencies:
 ```  
