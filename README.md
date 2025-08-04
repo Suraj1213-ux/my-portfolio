@@ -1,9 +1,5 @@
 # Portfolio Website
 
-[![image](https://github.com/user-attachments/assets/2d647a83-f1e8-4c1c-8780-712fb76df423)](http://arpy8.com/)
-
-[![Deploy Status](https://img.shields.io/badge/Visit-Site-black?style=flat&logo=vercel)](https://www.arpy8.com/)
-
 ---
 
 The component `<LetterGlitch \>` and `<InfiniteMenu \>` were taken from [ReactBits.dev](https://www.reactbits.dev/)
